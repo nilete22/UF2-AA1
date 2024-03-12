@@ -16,7 +16,7 @@ Cal que elaboreu una pàgina web amb un recull dels principals servidors aplicac
 
 La pàgina web ha d'incloure un índex o menú de navegació i a la pàgina principal el nom dels autors.
 
-S'ha d'incloure un índex per navegar pels diferents casos i un apartat final amb les referències.
+També cal afegir un apartat final amb les referències.
 
 **Activitat per parelles**
 

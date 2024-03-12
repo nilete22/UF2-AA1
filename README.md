@@ -12,8 +12,20 @@ Cal que elaboreu una pàgina web amb un recull dels principals servidors aplicac
 - Característiques destacades que creieu important indicar d'aquell servidor.
 - Casos: empreses o serveis importants que l'utilitzin
 
-Cal que almenys hi apareguin representats casos pels següents llenguatges de programació: Java, C#, JS, Go, Ruby i Python.
+És obligatori que almenys hi apareguin representats casos pels següents llenguatges de programació: Java, C#, JS, Go, Ruby i Python.
 
-La pàgina web, l'heu de crear a un repositori de GitHub i publicar-la mitjançant GitHub Pages.
+La pàgina web ha d'incloure un índex o menú de navegació i a la pàgina principal el nom dels autors.
 
 S'ha d'incloure un índex per navegar pels diferents casos i un apartat final amb les referències.
+
+**Activitat per parelles**
+
+### Metodologia
+
+Cloneu aquest repositori per fer el repositori del grup. És obligatori que a part de la branca **main** i hagi una branca **publication** visible. La branca **publication** serà la que es publicarà i s'haurà d'actualitzar utilitzant `pull request`degudament documentats. Tot el contingut de la pàgina haurà d'estar dins una carpeta anomenada anomenada **docs**. Quan configureu el desplegament via GitHub Pages, heu de publicar la branca **publication** i la carpeta **docs**.
+
+El segon component del grup hauria de clonar el repositori creat pel grup i treballar seguint la metodlogia explicada en UFs anteriors, usant branques i enviant les seves aportacions a main amb PR. El propietari del repositori, també hauria d'usar una branca `dev`per evitar conflictes.
+
+### Lliurament
+
+Poseu el link del vostre repositori a la tasca del Moodle.
